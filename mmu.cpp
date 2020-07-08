@@ -1,6 +1,6 @@
 //Stephanie Michalowicz
 //Operating Systems
-//Lab 3 - Virtual Memory Manager
+//Virtual Memory Manager
 
 #include <iostream>
 #include <stdio.h>
