@@ -7,6 +7,7 @@ As the sum of all virtual pages in all virtual address space may exceed the numb
 The number of physical page frames varies and is specified by a program option, but assumed to support 128 frames. 
 
 INPUT SPECIFICATION:
+
 The input is comprised of:
  1. the number of processes (processes are numbered starting from 0) 
  2. a specification for each process’ address space is comprised of:
